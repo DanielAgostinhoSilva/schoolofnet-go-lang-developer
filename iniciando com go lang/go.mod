@@ -1,4 +1,4 @@
-module hello
+module iniciando_com_go_lang
 
 go 1.18
 

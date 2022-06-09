@@ -1,4 +1,4 @@
-package main
+package scope
 
 import "fmt"
 
@@ -9,7 +9,7 @@ func main() {
 	fmt.Println(x)
 	printY()
 	fmt.Printf(z)
-	printZ()
+	PrintZ()
 }
 
 func printY() {
